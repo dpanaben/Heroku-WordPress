@@ -105,7 +105,7 @@ define( 'WP_AUTO_UPDATE_CORE', false );
 
 /* That's all, stop editing! Happy blogging. */
 
-define('FORCE_SSL_ADMIN', true);
+//define('FORCE_SSL_ADMIN', true);
 // in some setups HTTP_X_FORWARDED_PROTO might contain 
 // a comma-separated list e.g. http,https
 // so check for https existence
